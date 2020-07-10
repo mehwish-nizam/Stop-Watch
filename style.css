@@ -1,13 +1,13 @@
 body{
     background-color: #000000;
     text-align : center;
-    margin-top : 5%;
+    margin-top : 15%;
 }
 #stopwatch{
     margin-top: 5%;
 }
 button{
-    width : 20%;
+    width : 200px;
     height : 50px;
     color : white;
     font-size: 2rem;
@@ -15,7 +15,7 @@ button{
 }
 h1{
     color : white;
-    font-size: 4rem;
+    font-size: 3rem;
     display : inline;
 }
 #mainheading{
@@ -26,7 +26,7 @@ h1{
 p{
     color : white; 
     display : inline;
-    margin-left: 2%;
+    margin-left: 1%;
 }
 #Start{
     background-image: linear-gradient(green,darkgreen)

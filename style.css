@@ -1,0 +1,43 @@
+body{
+    background-color: #000000;
+    text-align : center;
+    margin-top : 5%;
+}
+#stopwatch{
+    margin-top: 5%;
+}
+button{
+    width : 20%;
+    height : 50px;
+    color : white;
+    font-size: 2rem;
+    margin-top : 40px;
+}
+h1{
+    color : white;
+    font-size: 4rem;
+    display : inline;
+}
+#mainheading{
+    font-size: 5rem;
+    color : cyan;
+    
+}
+p{
+    color : white; 
+    display : inline;
+    margin-left: 2%;
+}
+#Start{
+    background-image: linear-gradient(green,darkgreen)
+}
+#clear{
+    background-image: linear-gradient(red,maroon)
+}
+#continue{
+    background-image: linear-gradient(lightblue,blue);
+    
+}
+#pause{
+    background-image: linear-gradient(yellow,orange)
+}

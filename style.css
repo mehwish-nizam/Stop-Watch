@@ -49,10 +49,13 @@ p{
     
 }
 #pause{
-    background-image: linear-gradient(yellow,orange)
+    background-image: linear-gradient(	#FF69B4,#FF1493)
 }
 @media only screen and (max-width: 600px) {
     img{
         width : 50%
+    }
+    p{
+        margin-left : 5%;
     }
 }

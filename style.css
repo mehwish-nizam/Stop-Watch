@@ -2,31 +2,41 @@ body{
     background-color: #000000;
     text-align : center;
     margin-top : 15%;
+    padding : auto;
+    overflow-x: hidden;
 }
-#stopwatch{
-    margin-top: 5%;
+img{
+    display : block;
+    width : 20%;
+    margin : 10px auto;
 }
+
 button{
     width : 200px;
     height : 50px;
     color : white;
     font-size: 2rem;
     margin-top : 40px;
+    border : 1px solid white;
+    
 }
 h1{
     color : white;
-    font-size: 3rem;
+    font-size: 2rem;
     display : inline;
 }
+#stopwatch{
+    margin: 4% ;
+}
 #mainheading{
-    font-size: 5rem;
+    font-size: 3rem;
     color : cyan;
     
 }
 p{
     color : white; 
     display : inline;
-    margin-left: 1%;
+    margin-left: 1.5%;
 }
 #Start{
     background-image: linear-gradient(green,darkgreen)
